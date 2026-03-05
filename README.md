@@ -87,7 +87,7 @@ Radio has buit in small web server with simple webpage for list stations, bank s
 <p><img src="Photos\RadioWeb1.png" title="ESP32 Radio" width="750" height="580"></p>
 
 ## Android APK
-There is small Android APK wirtten for this project give possibily to direct control Evo radio from mobile phone.
+There is small Android APK wirtten for this project giving possibily to direct control Evo radio from mobile phone.
 <img src="Photos\AndroidAPK.jpg" title="ESP32 Radio APK" width="245" height="499">
 
 ## Remote Control
