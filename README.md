@@ -43,7 +43,7 @@ Functions:
 <img src="Photos\ScreenMode2.png" title="ESP32 Radio" width="512" height="128">
 <img src="Photos\ScreenMode3.png" title="ESP32 Radio" width="512" height="128">
 <img src="Photos\ScreenMode4.png" title="ESP32 Radio" width="512" height="128">
-<img src="Photos\ScreenMode4.png" title="ESP32 Radio" width="512" height="128">
+<img src="Photos\ScreenMode5.png" title="ESP32 Radio" width="512" height="128">
 
 ## Hardware
 - ESP32-S3 dev. module with internal antena or external antena connector
