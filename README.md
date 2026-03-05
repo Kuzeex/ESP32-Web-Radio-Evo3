@@ -43,6 +43,7 @@ Functions:
 <img src="Photos\ScreenMode2.png" title="ESP32 Radio" width="512" height="128">
 <img src="Photos\ScreenMode3.png" title="ESP32 Radio" width="512" height="128">
 <img src="Photos\ScreenMode4.png" title="ESP32 Radio" width="512" height="128">
+<img src="Photos\ScreenMode4.png" title="ESP32 Radio" width="512" height="128">
 
 ## Hardware
 - ESP32-S3 dev. module with internal antena or external antena connector
@@ -66,7 +67,6 @@ How to compile (Arduino):
   WiFiManager
 
 Proper version of all libs are placed on top of source code ino file
-
 For Platformio look into src folder -> Platformio folder and Platformio.ini file.
 
 
@@ -86,11 +86,14 @@ For Platformio look into src folder -> Platformio folder and Platformio.ini file
 Radio has buit in small web server with simple webpage for list stations, bank select, volume control and access to settings menu
 <p><img src="Photos\RadioWeb1.png" title="ESP32 Radio" width="750" height="580"></p>
 
+## Android APK
+There is small Android APK wirtten for this project give possibily to direct control Evo radio from mobile phone.
+<img src="Photos\AndroidAPK.jpg" title="ESP32 Radio APK" width="245" height="499">
+
 ## Remote Control
-There is pre-coded Remote Controler RC-406 (Kenwood clone). 
-You can change it by editing remote.txt file on SD card.
+There is pre-coded Remote Controler RC-406 (Kenwood clone). You can change it by editing remote.txt file on SD card.
 Key mapping:
-<p><img src="Photos\RemoteControlMap_RC406_rev1.10.png" title="ESP32 Radio" width="500" height="300"></p>
+<p><img src="Photos\RemoteControlMap_RC406_rev1.10.png" title="ESP32 Radio" width="500" height="400"></p>
 
 
 ## Usage
