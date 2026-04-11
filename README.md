@@ -94,7 +94,7 @@ Radio has buit in small web server with simple webpage for list stations, bank s
 <p><img src="Photos\RadioWeb1.png" title="ESP32 Radio" width="750" height="580"></p>
 
 ## Radio Browser
-Builtin RadioBrowser search page allows to search station around the world, play and test them immediately on Evo Radio
+The built-in Radio Browser search page allows you to search for various radio stations around the world, and play or test them instantly on Evo Radio.
 <p><img src="Photos\Radiobrowser.png" title="Evo Internet Radio - Radio Browser" width="750" height="580"></p>
 
 ## Android APK
