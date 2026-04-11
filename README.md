@@ -37,11 +37,14 @@ Functions:
 - Sleep timer
 
 
-## Display Modes
-- FLAC stations: Smoothjazz.com.pl 16bit 1Mbps and AIDA Radio 24bit 2Mpbs!
+## FLAC stations
+<p>Smoothjazz.com.pl 16bit 1Mbps and AIDA Radio 24bit 2Mpbs!
+<br>
 <img src="Photos\flac1.png" title="ESP32 Radio" width="512" height="128">
 <img src="Photos\flac2.png" title="ESP32 Radio" width="512" height="128">
 <p>
+
+## Display Modes
 <img src="Photos\ScreenMode0.png" title="ESP32 Radio" width="512" height="128">
 <img src="Photos\ScreenMode1.png" title="ESP32 Radio" width="512" height="128">
 <img src="Photos\ScreenMode2.png" title="ESP32 Radio" width="512" height="128">
