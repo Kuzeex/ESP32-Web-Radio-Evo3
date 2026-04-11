@@ -101,10 +101,8 @@ The built-in Radio Browser search page allows you to search for various radio st
 There is small Android APK wirtten for this project giving possibily to direct control Evo radio from mobile phone.
 <img src="Photos\AndroidAPK.jpg" title="Evo Internet Radio - Radio Android APK" width="245" height="499">
 
-## Remote Control
-There is pre-coded Remote Controler RC-406 (Kenwood clone). You can change via simple web interface or editing remote.txt file stored in memory - SD card or internal flash.
-<p><img src="Photos\RemoteControlWeb.png" title="Evo Internet Radio - Remote config over web" width="500" height="400"></p>
-
+There is a pre-coded remote controller RC-406 (Kenwood clone). You can change the settings via a simple web interface or by editing the remote.txt file stored in memory (SD card or internal flash).
+<p><img src="Photos\RemoteControlWeb.png" title="Evo Internet Radio - Remote config over web" width="350" height="400"></p>
 Key mapping:
 <p><img src="Photos\RemoteControlMap_RC406_rev1.10.png" title="Evo Internet Radio - Remote config" width="500" height="400"></p>
 
