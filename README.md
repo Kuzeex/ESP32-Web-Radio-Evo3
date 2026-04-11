@@ -95,7 +95,7 @@ Radio has buit in small web server with simple webpage for list stations, bank s
 
 ## Radio Browser
 The built-in Radio Browser search page allows you to search for various radio stations around the world, and play or test them instantly on Evo Radio.
-<p><img src="Photos\Radiobrowser.png" title="Evo Internet Radio - Radio Browser" width="750" height="580"></p>
+<p><img src="Photos\Radiobrowser.png" title="Evo Internet Radio - Radio Browser" width="650" height="580"></p>
 
 ## Android APK
 There is small Android APK wirtten for this project giving possibily to direct control Evo radio from mobile phone.
